@@ -115,6 +115,8 @@ sometimes I will talk your ear off about something you never asked to hear about
   <img src="https://i.postimg.cc/tRtFPBH1/Untitled257.png" width="600">
 </p>
 <div align="center">
-  <a href="https://nerdcoded.atabook.org/"> sign my 新book </a>
+  <a href="https://nerdcoded.atabook.org/"> sign my 新book </a> </p>
+
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnerdcoded&label=kitties&labelColor=%23778d59&countColor=%235e795a&style=plastic&labelStyle=upper)
   
 </div>
