@@ -110,8 +110,11 @@ sometimes I will talk your ear off about something you never asked to hear about
 
 </details>
 
-</div>
 
 <p align="center">
   <img src="https://i.postimg.cc/tRtFPBH1/Untitled257.png" width="600">
 </p>
+<div align="center">
+  <a href="https://nerdcoded.atabook.org/"> sign my 新book </a>
+  
+</div>
