@@ -103,7 +103,7 @@ sometimes I will talk your ear off about something you never asked to hear about
 </p>
 
 <a href="https://github.com/h6xoi">@h6xoi</a> , <a href="https://github.com/dantestheonefr">@dantestheonefr</a> , <a href="https://github.com/77crescentmoon">@77crescentmoon</a> ,<a href="https://github.com/L0ztStarz">@L0ztStarz</a> </p>
-<a href="https://github.com/AndroidSentByCyberLife">@AndroidSentByCyberLife</a> 
+<a href="https://github.com/AndroidSentByCyberLife">@AndroidSentByCyberLife</a> , <a href="https://github.com/brvteforce">@brvteforce</a>
 <p align="center">
   <img src="https://i.postimg.cc/Z5qnWcTt/Untitled254.png" width="500">
 </p>
